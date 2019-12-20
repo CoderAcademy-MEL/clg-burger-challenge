@@ -14,8 +14,13 @@ Implement pricing...
 
 * all burgers have a base price of 5.00
 * each 'filling' costs an extra 0.50
+* print the price of each burger, and the total of the order, at the end of the program.
 
 Before writing any code, consider the most appropriate way to organise the new code.
 
 * Where should pricing data be stored?
 * Where should burger cost calculations be performed?
+
+# 🌱🌱 More?
+
+* calculate the GST and display it with the order.
